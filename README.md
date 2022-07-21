@@ -1,2 +1,2 @@
-# home-cook-recipe-app-api
+# home cook recipe app api
 Recipe API project
